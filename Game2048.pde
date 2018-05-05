@@ -29,3 +29,4 @@ void keyPressed() {
    board.move(keyCode); //recieving the keys
  }
 }
+//TODO solve the isue when you have 4 tiles in a row and they combine all at once
